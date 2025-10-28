@@ -1,3 +1,5 @@
+![Build Status](https://img.shields.io/badge/build-passing-brightgreen)
+
 # basic-blockchain
 
 A simple blockchain and cryptocurrency wallet implemented in typescript and node.js (for educational purposes).
